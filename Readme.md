@@ -19,9 +19,10 @@ Endpoints :
 - update teacher
 - delete teacher
 
-Create endpoint that takes student id and return one student .
-Create endpoint that takes teacher id and return one teacher .
-Create endpoint that takes student name and return one student .
-Create endpoint that takes student major and return all students under this major .
-Create endpoint that takes teacher salary and return all teachers who have this salaray or above.
-Create endpoint that takes student age and return all students who have this age or above.
+
+- Create endpoint that takes student id and return one student .
+- Create endpoint that takes teacher id and return one teacher .
+- Create endpoint that takes student name and return one student .
+- Create endpoint that takes student major and return all students under this major .
+- Create endpoint that takes teacher salary and return all teachers who have this salaray or above.
+- Create endpoint that takes student age and return all students who have this age or above.
