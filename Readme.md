@@ -1,4 +1,4 @@
-### Create School management software ,
+## Create School management software ,
 
 Student Class : ID , name , age , major ( all should not be empty ) ( major enum { CS , MATH , Engineer )
 
@@ -8,7 +8,7 @@ Teacher Class : ID , name , salary ( all should not be empty)
 - Use project lombok
 - Use Validation
 
-Endpoints :
+### Endpoints :
 
 - Get all students
 - Add new student
